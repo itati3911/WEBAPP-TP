@@ -1,0 +1,1 @@
+This is a repository that hosts a project written in c# language, developed in collaboration with my classmates MattMaglio and MaximilianoAns as a practical assignment for the subject Programming 3. The web app validates a code in an SQL database to display the products stored there.
